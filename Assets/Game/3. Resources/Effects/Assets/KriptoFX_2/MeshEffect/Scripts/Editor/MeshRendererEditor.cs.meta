@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 0d21d5cc206e89d4596a24b34f9c189a
+timeCreated: 1457532244
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 67803
+  packageName: Mesh Effects
+  packageVersion: 
+  assetPath: Assets/GamePlay/Effects/Assets/KriptoFX/MeshEffect/Scripts/Editor/MeshRendererEditor.cs
+  uploadId: 0

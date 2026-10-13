@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: fc8a1f6377fe0c0438c42fca38cd645d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179884
+  packageName: Asteroids Field Generator
+  packageVersion: 1.1
+  assetPath: Assets/Asteroids Field Generator/Scripts/asteroidTorusClass.cs
+  uploadId: 423248

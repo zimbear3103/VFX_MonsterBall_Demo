@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 51fe576f275a1a640895b4fdd5f94269
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300704
+  packageName: Jiggle anything shader
+  packageVersion: 1.0
+  assetPath: Assets/ThatIndividual STORE ASSETS/ThatIndividual STORE ASSETS/JiggleAnythingShader/Scripts/jiggle_InteractorPos.cs
+  uploadId: 709746

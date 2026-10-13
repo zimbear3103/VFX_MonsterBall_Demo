@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9e062bd6494cddc4daf33054c40566fb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 263099
+  packageName: 'UNI VFX: Characters & Artifacts'
+  packageVersion: 1.0
+  assetPath: Assets/GamePlay/Effects/Assets/UNI VFX/Common/Scripts/UNI_SimpleCameraController.cs
+  uploadId: 607330

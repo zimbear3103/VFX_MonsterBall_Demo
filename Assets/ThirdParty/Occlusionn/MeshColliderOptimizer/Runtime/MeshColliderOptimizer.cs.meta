@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 0feb43bf98fbd1f4b88ab8d4b3d1888d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: d6ceb3d81ed34a14c8e2f73ccee64d22, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 354322
+  packageName: "MESH COLLIDER OPTIMIZER \u2013 Advanced Animation Collider & BlendShape
+    Colliders"
+  packageVersion: 1.1.0
+  assetPath: Assets/Occlusionn/MeshColliderOptimizer/Runtime/MeshColliderOptimizer.cs
+  uploadId: 893956

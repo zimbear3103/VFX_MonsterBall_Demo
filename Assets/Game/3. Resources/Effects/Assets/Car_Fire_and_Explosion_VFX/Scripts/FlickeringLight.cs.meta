@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4dba1ab40654e1949890acb9126c4668
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 282426
+  packageName: Car Fire and Explosion VFX
+  packageVersion: 1.0
+  assetPath: Assets/Car_Fire_and_Explosion_VFX/Scripts/FlickeringLight.cs
+  uploadId: 665309

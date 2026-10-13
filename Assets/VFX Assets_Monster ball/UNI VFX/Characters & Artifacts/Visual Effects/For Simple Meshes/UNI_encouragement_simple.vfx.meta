@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 178c43fae52ba674abf245cd29e8b9b5
+VisualEffectImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 263099
+  packageName: 'UNI VFX: Characters & Artifacts'
+  packageVersion: 1.0
+  assetPath: Assets/GamePlay/Effects/Assets/UNI VFX/Characters & Artifacts/Visual
+    Effects/For Simple Meshes/UNI_encouragement_simple.vfx
+  uploadId: 607330

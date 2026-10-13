@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: be46c9ada6648c048aad8c421024e1c1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 210228
+  packageName: Advanced Cable Creator
+  packageVersion: 1.1
+  assetPath: Assets/World/Prefabs/Public/NOT_Lonely/Advanced Cable Creator/Editor/ACC_Trail_editor.cs
+  uploadId: 635327

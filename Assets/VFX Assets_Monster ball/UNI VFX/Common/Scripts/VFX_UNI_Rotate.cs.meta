@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7570c854f2917b249a6e8c0e1c93abf6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 263099
+  packageName: 'UNI VFX: Characters & Artifacts'
+  packageVersion: 1.0
+  assetPath: Assets/GamePlay/Effects/Assets/UNI VFX/Common/Scripts/VFX_UNI_Rotate.cs
+  uploadId: 607330

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: dbc5975642b4f944aaa27c3866bcb5e6
+timeCreated: 1495961790
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 52746
+  packageName: Shuriken Salvo
+  packageVersion: 1.04
+  assetPath: Assets/Shuriken Salvo by Moonflower Carnivore/Scripts/demo/PinchVerticalTranslation.cs
+  uploadId: 311676

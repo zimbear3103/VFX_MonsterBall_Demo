@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: bf324f37072afd24cace8c32bb2b0989
+timeCreated: 1512851421
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 114452
+  packageName: Magic Slashes FX
+  packageVersion: 1.0
+  assetPath: Assets/ResourcesData/Effects/Assets/KriptoFX/Realistic Effects Pack
+    v4/SceneResources/Other/Slash_MouseOrbit.cs
+  uploadId: 286418

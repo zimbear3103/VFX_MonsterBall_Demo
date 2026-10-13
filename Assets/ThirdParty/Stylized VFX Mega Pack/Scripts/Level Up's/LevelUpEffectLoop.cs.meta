@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8591a6b5bf75bd04f875dc502f26080c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 307640
+  packageName: Stylized VFX Mega Pack
+  packageVersion: 1.0
+  assetPath: Assets/Stylized VFX Mega Pack/Scripts/Level Up's/LevelUpEffectLoop.cs
+  uploadId: 730810

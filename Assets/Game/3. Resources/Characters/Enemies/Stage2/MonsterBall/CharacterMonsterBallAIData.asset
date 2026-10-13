@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa57e4ba9b0ab8f42855143d5fb3d073, type: 3}
+  m_Name: CharacterMonsterBallAIData
+  m_EditorClassIdentifier: 
+  chaseDistance: 0
+  waitDistance: 0.2
+  attackInfos: []
+  combatBlockingChance: 30
+  combatParryingChance: 30
+  combatFleeHPPercent: 30
+  combatDashEvadeChance: 30
+  combatJumpChance: 30
+  combatSitChance: 30
+  combatJumpAttackChance: 30
+  minAttackDelay: 3
+  maxAttackDelay: 4
+  navMeshAgent: {fileID: 0}
+  useNavMeshAgent: 1
+  _fsmBehaviour: {fileID: 11400000, guid: e4ba3a56e81b79245bdfe905279e4370, type: 2}
+  _ragdolled: 0
+  _targetInLineOfSight: 0
+  sightMethod: 0
+  updatePathQuality: 2
+  findTargetUpdateQuality: 3
+  canseeTargetUpdateQuality: 2
+  currentSpeed: 0
+  _stopingDistance: 0.2
+  _walkingStopingDistance: 0.05
+  _runningStopingDistance: 0.1
+  _sprintingStopingDistance: 0.15
+  _minDistanceToDetect: 3
+  _maxDistanceToDetect: 6
+  _fieldOfView: 90
+  _lostTargetDistance: 4
+  _lostTargetStates: 
+  _selfStartingPoint: 0
+  _customStartingPoint: {fileID: 0}
+  _currentTarget:
+    _tag: 
+    _transform: {fileID: 0}
+    isFixedTarget: 0
+    isLost: 0
+  _secundaryTargets: []
+  _onDead:
+    m_PersistentCalls:
+      m_Calls: []
+  _onStartReceiveDamage:
+    m_PersistentCalls:
+      m_Calls: []
+  _onReceiveDamage:
+    m_PersistentCalls:
+      m_Calls: []
+  _detectLayer:
+    serializedVersion: 2
+    m_Bits: 64
+  _detectTags:
+    tags:
+    - Untagged
+    - Player
+  _obstacles:
+    serializedVersion: 2
+    m_Bits: 1
+  _minDistanceOfTheTarget: 2
+  _combatDistance: 4
+  _strafeCombatMovement: 1
+  _attackDistance: 1
+  _isAiming: 0
+  _timeToLostWithoutSight: 5
+  findTargetDelayTime: 1
+  detectionPointReference: {fileID: 0}
+  _minTimeToTryBlock: 4
+  _maxTimeToTryBlock: 6
+  _minAttackTime: 0.5
+  _maxAttackTime: 2
+  _minAttackCount: 1
+  _maxAttackCount: 3
+  _minStayBlockingTime: 4
+  _maxStayBlockingTime: 6

@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 4fa00a0d27c34ee419f5b2ffd53ae38a
+timeCreated: 1469482823
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 114452
+  packageName: Magic Slashes FX
+  packageVersion: 1.0
+  assetPath: Assets/ResourcesData/Effects/Assets/KriptoFX/Realistic Effects Pack
+    v4/SceneResources/Other/Slash_DemoGUI.cs
+  uploadId: 286418

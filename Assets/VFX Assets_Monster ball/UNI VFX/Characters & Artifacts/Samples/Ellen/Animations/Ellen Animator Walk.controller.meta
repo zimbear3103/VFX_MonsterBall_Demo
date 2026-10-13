@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: dc162410c3b9308489ea6e03cb877ae9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 263099
+  packageName: 'UNI VFX: Characters & Artifacts'
+  packageVersion: 1.0
+  assetPath: Assets/GamePlay/Effects/Assets/UNI VFX/Characters & Artifacts/Samples/Ellen/Animations/Ellen
+    Animator Walk.controller
+  uploadId: 607330

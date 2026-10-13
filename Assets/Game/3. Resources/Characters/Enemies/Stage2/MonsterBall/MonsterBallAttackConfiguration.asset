@@ -1,0 +1,141 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 919d19b45377d824bbd7d54432d5b99d, type: 3}
+  m_Name: MonsterBallAttackConfiguration
+  m_EditorClassIdentifier: 
+  datas:
+  - function: MonsterBallRed_Attack1
+    propertyType: 0
+    attackType: 0
+    haveNextAttack: 0
+    isGuardable: 1
+    isParryable: 1
+    damage: 1
+    knockBackVertical: 2
+    knockBackHorizontal: 9
+    startX: 0
+    startY: 0
+    startZ: 0
+    width: 3
+    height: 3
+    distance: 0.01923077
+    guardPenetration: 0
+    cameraSlowMotion: 1
+    cameraShakePower: 6
+    cameraZoomPower: 0
+    attackerStag: 0.3
+    attackedStag: 0.4
+  - function: MonsterBallRed_Attack2
+    propertyType: 0
+    attackType: 1
+    haveNextAttack: 0
+    isGuardable: 0
+    isParryable: 1
+    damage: 1
+    knockBackVertical: 4
+    knockBackHorizontal: 8
+    startX: 0
+    startY: 0
+    startZ: 0
+    width: 4
+    height: 0
+    distance: 0
+    guardPenetration: 0
+    cameraSlowMotion: 0
+    cameraShakePower: 5
+    cameraZoomPower: 0
+    attackerStag: 0.3
+    attackedStag: 0.4
+  - function: MonsterBallBlue_Attack1
+    propertyType: 0
+    attackType: 0
+    haveNextAttack: 0
+    isGuardable: 1
+    isParryable: 1
+    damage: 1
+    knockBackVertical: 2
+    knockBackHorizontal: 9
+    startX: 0
+    startY: 0
+    startZ: 0
+    width: 3
+    height: 3
+    distance: 0.01923077
+    guardPenetration: 0
+    cameraSlowMotion: 1
+    cameraShakePower: 6
+    cameraZoomPower: 0
+    attackerStag: 0.3
+    attackedStag: 0.4
+  - function: MonsterBallBlue_Attack2
+    propertyType: 0
+    attackType: 1
+    haveNextAttack: 0
+    isGuardable: 0
+    isParryable: 0
+    damage: 1
+    knockBackVertical: 3
+    knockBackHorizontal: 8
+    startX: 0
+    startY: 0
+    startZ: 0
+    width: 4
+    height: 0
+    distance: 0
+    guardPenetration: 0
+    cameraSlowMotion: 0
+    cameraShakePower: 5
+    cameraZoomPower: 0
+    attackerStag: 0.3
+    attackedStag: 0.4
+  - function: MonsterBallGreen_Attack1
+    propertyType: 0
+    attackType: 0
+    haveNextAttack: 0
+    isGuardable: 0
+    isParryable: 1
+    damage: 1
+    knockBackVertical: 2
+    knockBackHorizontal: 9
+    startX: 0
+    startY: 0
+    startZ: 0
+    width: 3
+    height: 3
+    distance: 0.01923077
+    guardPenetration: 0
+    cameraSlowMotion: 1
+    cameraShakePower: 6
+    cameraZoomPower: 0
+    attackerStag: 0.3
+    attackedStag: 0.4
+  - function: MonsterBallGreen_Attack2
+    propertyType: 0
+    attackType: 1
+    haveNextAttack: 0
+    isGuardable: 0
+    isParryable: 0
+    damage: 1
+    knockBackVertical: 3
+    knockBackHorizontal: 8
+    startX: 0
+    startY: 0
+    startZ: 0
+    width: 4
+    height: 0
+    distance: 0
+    guardPenetration: 0
+    cameraSlowMotion: 0
+    cameraShakePower: 5
+    cameraZoomPower: 0
+    attackerStag: 0.3
+    attackedStag: 0.4

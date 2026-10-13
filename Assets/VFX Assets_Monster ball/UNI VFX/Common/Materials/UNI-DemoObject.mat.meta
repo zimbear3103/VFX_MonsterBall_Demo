@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ab603a54e5b1c9a4397f5150662fd3c7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 263099
+  packageName: 'UNI VFX: Characters & Artifacts'
+  packageVersion: 1.0
+  assetPath: Assets/GamePlay/Effects/Assets/UNI VFX/Common/Materials/UNI-DemoObject.mat
+  uploadId: 607330

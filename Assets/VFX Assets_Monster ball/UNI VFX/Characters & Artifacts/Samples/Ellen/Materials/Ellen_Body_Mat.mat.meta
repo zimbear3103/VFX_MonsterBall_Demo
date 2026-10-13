@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 81f2d7d9df1e7e14f83d5a32125643c3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 263099
+  packageName: 'UNI VFX: Characters & Artifacts'
+  packageVersion: 1.0
+  assetPath: Assets/GamePlay/Effects/Assets/UNI VFX/Characters & Artifacts/Samples/Ellen/Materials/Ellen_Body_Mat.mat
+  uploadId: 607330

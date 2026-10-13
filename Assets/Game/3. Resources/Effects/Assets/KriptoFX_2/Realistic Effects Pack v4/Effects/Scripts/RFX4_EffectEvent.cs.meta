@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 4f3a75ebaaa03d94180c577cee7363ff
+timeCreated: 1471412253
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85675
+  packageName: Realistic Effects Pack 4
+  packageVersion: 
+  assetPath: Assets/GamePlay/Effects/Assets/KriptoFX/Realistic Effects Pack v4/Effects/Scripts/RFX4_EffectEvent.cs
+  uploadId: 0

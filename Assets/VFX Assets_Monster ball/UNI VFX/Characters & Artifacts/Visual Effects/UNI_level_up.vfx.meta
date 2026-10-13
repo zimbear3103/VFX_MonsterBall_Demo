@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5b633feab5c77504ba87c91669e7d2bf
+VisualEffectImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 263099
+  packageName: 'UNI VFX: Characters & Artifacts'
+  packageVersion: 1.0
+  assetPath: Assets/GamePlay/Effects/Assets/UNI VFX/Characters & Artifacts/Visual
+    Effects/UNI_level_up.vfx
+  uploadId: 607330

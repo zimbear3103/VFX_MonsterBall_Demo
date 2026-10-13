@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7449fb006b772e74ba4e0865720941b1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179884
+  packageName: Asteroids Field Generator
+  packageVersion: 1.1
+  assetPath: Assets/Asteroids Field Generator/Scripts/asteroidSphereClass.cs
+  uploadId: 423248

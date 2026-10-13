@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 63cfe5dc95024e847920267b2a9510a0
+timeCreated: 1495984910
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 52746
+  packageName: Shuriken Salvo
+  packageVersion: 1.04
+  assetPath: Assets/Shuriken Salvo by Moonflower Carnivore/Scripts/demo/TouchRotate.cs
+  uploadId: 311676

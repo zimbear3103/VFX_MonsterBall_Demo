@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 71f3c1fb4f1e13c43b7db4207a58c59d
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 248344
+  packageName: Bird Flock Crow 2023
+  packageVersion: 3.0
+  assetPath: Assets/Unluck Software/Bird Flocks/Scripts/LandingSpotController.cs
+  uploadId: 567079

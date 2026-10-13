@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: bc136603f341643d89602272665794b7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 146898
+  packageName: Trails FX - Stylized Motion Effects
+  packageVersion: 6.1
+  assetPath: Assets/Trails FX/Demo/Scripts/InputProxy.cs
+  uploadId: 899932

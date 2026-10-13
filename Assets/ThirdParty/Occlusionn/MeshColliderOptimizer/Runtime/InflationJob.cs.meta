@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: e141f7635fda6994ea567d66d0388cfe
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 354322
+  packageName: "MESH COLLIDER OPTIMIZER \u2013 Advanced Animation Collider & BlendShape
+    Colliders"
+  packageVersion: 1.1.0
+  assetPath: Assets/Occlusionn/MeshColliderOptimizer/Runtime/InflationJob.cs
+  uploadId: 893956

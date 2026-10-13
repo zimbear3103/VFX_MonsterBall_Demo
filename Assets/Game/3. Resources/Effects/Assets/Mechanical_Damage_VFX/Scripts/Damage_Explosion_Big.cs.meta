@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e87e5ce857663854db7fb0c36dd08071
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 288879
+  packageName: Mechanical Damage VFX
+  packageVersion: 1.0
+  assetPath: Assets/Mechanical_Damage_VFX/Scripts/Damage_Explosion_Big.cs
+  uploadId: 673972

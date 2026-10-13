@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d6611079c365e524987733ad771a99bc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236239
+  packageName: Environment Nature VFX Pack (WindControlled)
+  packageVersion: 1.0
+  assetPath: Assets/TheLazzyKnight/Stylized Environment VFX/Scripts/WindDirector.cs
+  uploadId: 546689

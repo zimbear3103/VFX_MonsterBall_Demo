@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 23660002bade6b041a575083d5c2cd27
+VisualEffectImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 263099
+  packageName: 'UNI VFX: Characters & Artifacts'
+  packageVersion: 1.0
+  assetPath: Assets/GamePlay/Effects/Assets/UNI VFX/Characters & Artifacts/Visual
+    Effects/For Simple Meshes/UNI_touch_of_the_dead_simple.vfx
+  uploadId: 607330

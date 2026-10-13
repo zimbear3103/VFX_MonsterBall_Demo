@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 229169b80e09fa146b34df02da261955
+timeCreated: 1568378700
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 248344
+  packageName: Bird Flock Crow 2023
+  packageVersion: 3.0
+  assetPath: Assets/Unluck Software/SkinnedMesh Snapshot/Scripts/BakedMeshAnimation.cs
+  uploadId: 567079

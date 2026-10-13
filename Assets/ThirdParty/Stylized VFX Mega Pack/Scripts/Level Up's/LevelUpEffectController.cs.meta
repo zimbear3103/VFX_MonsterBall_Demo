@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8f169b3c645b33e4197d97c22913a521
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 307640
+  packageName: Stylized VFX Mega Pack
+  packageVersion: 1.0
+  assetPath: Assets/Stylized VFX Mega Pack/Scripts/Level Up's/LevelUpEffectController.cs
+  uploadId: 730810

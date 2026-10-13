@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: e4811dad841169c42a2c22f2cb236e42
+timeCreated: 1493458964
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 67803
+  packageName: Mesh Effects
+  packageVersion: 
+  assetPath: Assets/GamePlay/Effects/Assets/KriptoFX/MeshEffect/DemoResources/Scripts/ME_DemoGUI.cs
+  uploadId: 0

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4ec0bef14fda183488e3106ada844cb0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 210228
+  packageName: Advanced Cable Creator
+  packageVersion: 1.1
+  assetPath: Assets/World/Prefabs/Public/NOT_Lonely/Advanced Cable Creator/Editor/ACC_MultiCombinerWindow.cs
+  uploadId: 635327

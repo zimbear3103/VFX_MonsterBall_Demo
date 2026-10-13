@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d730485d5cfa6104cbd3501c80836abb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300704
+  packageName: Jiggle anything shader
+  packageVersion: 1.0
+  assetPath: Assets/ThatIndividual STORE ASSETS/ThatIndividual STORE ASSETS/JiggleAnythingShader/Scripts/jiggle_effectController.cs
+  uploadId: 709746

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ff7839b46d71c72458e69e3340810bcb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 210228
+  packageName: Advanced Cable Creator
+  packageVersion: 1.1
+  assetPath: Assets/World/Prefabs/Public/NOT_Lonely/Advanced Cable Creator/ACC_Propagation.cs
+  uploadId: 635327

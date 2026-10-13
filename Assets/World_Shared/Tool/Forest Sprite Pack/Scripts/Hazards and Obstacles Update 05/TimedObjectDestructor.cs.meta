@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 37fac21d1f093d344816942d1abce94e
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85564
+  packageName: Forest Sprite Pack
+  packageVersion: 2.1
+  assetPath: Assets/World/Tool/Forest Sprite Pack/Scripts/Hazards and Obstacles Update
+    05/TimedObjectDestructor.cs
+  uploadId: 302623

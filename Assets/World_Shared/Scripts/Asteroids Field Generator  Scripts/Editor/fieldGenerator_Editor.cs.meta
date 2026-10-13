@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3d9ac6ac7e71ac14fa05950d18e67912
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179884
+  packageName: Asteroids Field Generator
+  packageVersion: 1.1
+  assetPath: Assets/Asteroids Field Generator/Scripts/Editor/fieldGenerator_Editor.cs
+  uploadId: 423248

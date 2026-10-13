@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9e23549191467894f9ae64ab44cd125d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 159728
+  packageName: Tornado Particle System
+  packageVersion: 1.0
+  assetPath: Assets/TornadoParticle/Assets/Other/Scripts/TornadoControl.cs
+  uploadId: 396086

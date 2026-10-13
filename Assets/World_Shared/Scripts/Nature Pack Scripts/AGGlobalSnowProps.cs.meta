@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 03d7d5ceb005a6a4db4154a7a43aec4f
+timeCreated: 1524836373
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: -500
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100777
+  packageName: PBR Rocks - Nature Pack
+  packageVersion: 2.6.1
+  assetPath: Assets/ANGRY MESH/Nature Pack - Common/Scripts/AGGlobalSnowProps.cs
+  uploadId: 630985

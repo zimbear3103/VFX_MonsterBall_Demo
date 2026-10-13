@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4252f9367f5df6a4aaee9bf6765a9d7b
+VisualEffectImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 263099
+  packageName: 'UNI VFX: Characters & Artifacts'
+  packageVersion: 1.0
+  assetPath: Assets/GamePlay/Effects/Assets/UNI VFX/Characters & Artifacts/Visual
+    Effects/For Simple Meshes/UNI_level_up_simple.vfx
+  uploadId: 607330

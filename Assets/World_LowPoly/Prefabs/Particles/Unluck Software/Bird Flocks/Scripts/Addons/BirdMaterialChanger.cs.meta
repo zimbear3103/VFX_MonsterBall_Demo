@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: d693e6464c8101242a8d0e892450b829
+timeCreated: 1490634222
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 248344
+  packageName: Bird Flock Crow 2023
+  packageVersion: 3.0
+  assetPath: Assets/Unluck Software/Bird Flocks/Scripts/Addons/BirdMaterialChanger.cs
+  uploadId: 567079

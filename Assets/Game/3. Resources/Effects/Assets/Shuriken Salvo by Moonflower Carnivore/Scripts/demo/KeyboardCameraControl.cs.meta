@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 0254295c38b9c794cb861718573ad5cc
+timeCreated: 1484135302
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 52746
+  packageName: Shuriken Salvo
+  packageVersion: 1.04
+  assetPath: Assets/Shuriken Salvo by Moonflower Carnivore/Scripts/demo/KeyboardCameraControl.cs
+  uploadId: 311676

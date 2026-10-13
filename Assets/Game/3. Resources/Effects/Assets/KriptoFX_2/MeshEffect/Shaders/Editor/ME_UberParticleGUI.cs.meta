@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 869a0451d1011a549862098810debafc
+timeCreated: 1547624841
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 67803
+  packageName: Mesh Effects
+  packageVersion: 
+  assetPath: Assets/GamePlay/Effects/Assets/KriptoFX/MeshEffect/Shaders/Editor/ME_UberParticleGUI.cs
+  uploadId: 0

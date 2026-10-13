@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4c7842bc90acabf43ab6088ce6f8a77f
+VisualEffectImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 263099
+  packageName: 'UNI VFX: Characters & Artifacts'
+  packageVersion: 1.0
+  assetPath: Assets/GamePlay/Effects/Assets/UNI VFX/Characters & Artifacts/Visual
+    Effects/For Simple Meshes/UNI_rage_simple.vfx
+  uploadId: 607330

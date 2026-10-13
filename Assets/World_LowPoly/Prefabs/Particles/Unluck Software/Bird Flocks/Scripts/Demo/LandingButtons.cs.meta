@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 4536d3e55d417454bb744c45e3f7ee8a
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 248344
+  packageName: Bird Flock Crow 2023
+  packageVersion: 3.0
+  assetPath: Assets/Unluck Software/Bird Flocks/Scripts/Demo/LandingButtons.cs
+  uploadId: 567079

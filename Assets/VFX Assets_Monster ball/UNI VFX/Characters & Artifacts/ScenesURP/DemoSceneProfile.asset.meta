@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a52e3de03cce4fc43b8a7b10f93264f0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 263099
+  packageName: 'UNI VFX: Characters & Artifacts'
+  packageVersion: 1.0
+  assetPath: Assets/GamePlay/Effects/Assets/UNI VFX/Characters & Artifacts/ScenesURP/DemoSceneProfile.asset
+  uploadId: 607330

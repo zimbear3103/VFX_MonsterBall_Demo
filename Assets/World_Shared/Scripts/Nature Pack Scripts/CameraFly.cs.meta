@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: e88b26d4b08286b4d84cc658ab3fca9e
+timeCreated: 1557843540
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100777
+  packageName: PBR Rocks - Nature Pack
+  packageVersion: 2.6.1
+  assetPath: Assets/ANGRY MESH/Nature Pack - Common/Scripts/CameraFly.cs
+  uploadId: 630985

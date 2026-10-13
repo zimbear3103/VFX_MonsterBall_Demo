@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2ec4182563fc91647aa9943e48305b9c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 288879
+  packageName: Mechanical Damage VFX
+  packageVersion: 1.0
+  assetPath: Assets/Mechanical_Damage_VFX/Scripts/DebrisRemoveTimer.cs
+  uploadId: 673972

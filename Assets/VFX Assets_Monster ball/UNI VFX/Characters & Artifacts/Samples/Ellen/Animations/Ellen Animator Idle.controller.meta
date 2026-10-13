@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f68c8f9d845b3cc4a8b90e4d6d28ffb6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 263099
+  packageName: 'UNI VFX: Characters & Artifacts'
+  packageVersion: 1.0
+  assetPath: Assets/GamePlay/Effects/Assets/UNI VFX/Characters & Artifacts/Samples/Ellen/Animations/Ellen
+    Animator Idle.controller
+  uploadId: 607330

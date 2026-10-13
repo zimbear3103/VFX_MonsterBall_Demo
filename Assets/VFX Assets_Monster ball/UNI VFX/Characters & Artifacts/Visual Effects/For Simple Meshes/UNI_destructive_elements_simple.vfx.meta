@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2f651153cafbf584b8fb0503f4dd157c
+VisualEffectImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 263099
+  packageName: 'UNI VFX: Characters & Artifacts'
+  packageVersion: 1.0
+  assetPath: Assets/GamePlay/Effects/Assets/UNI VFX/Characters & Artifacts/Visual
+    Effects/For Simple Meshes/UNI_destructive_elements_simple.vfx
+  uploadId: 607330

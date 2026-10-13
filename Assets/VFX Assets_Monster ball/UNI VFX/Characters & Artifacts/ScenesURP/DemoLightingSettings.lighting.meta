@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ecb2590464e37f24896e181bc8bb9e28
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 263099
+  packageName: 'UNI VFX: Characters & Artifacts'
+  packageVersion: 1.0
+  assetPath: Assets/GamePlay/Effects/Assets/UNI VFX/Characters & Artifacts/ScenesURP/DemoLightingSettings.lighting
+  uploadId: 607330
